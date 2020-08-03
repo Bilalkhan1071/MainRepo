@@ -25,6 +25,7 @@ p {
 	box-sizing: border-box;
 	position: relative;
 	font-family: Helvetica;
+	overflow: auto;
 }
 
 span {
