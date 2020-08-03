@@ -1,0 +1,13 @@
+#box, #box2 {
+	background-color: pink;
+  	width: 500px;
+  	border: 10px solid black;
+  	margin: 60px;
+  	height: 400px;
+
+}
+#content {
+	background-color: blue;
+	text-align: right;
+	float: right;
+}
