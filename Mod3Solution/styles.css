@@ -1,0 +1,111 @@
+body {
+	background-color: #ADD8E6
+}
+
+/** HEADER **/
+.navbar {
+	background-color: #FFC0CB;
+	border-radius: 0;
+	border-bottom: 2px solid black;
+}
+
+.navbar-brand {
+	padding-top: 30px;
+}
+
+.navbar-brand {
+	position: absolute;
+	left: 20px;
+	font-family: 'Lemonada', cursive;
+	color: #0000FF;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0.75;
+	font-size: 150%;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+nav .container {
+	height: 100px;
+	box-sizing: border-box;
+}
+
+#nav-list {
+	background-color: #fed8b1;
+	margin-bottom: 0;
+	position: relative;
+}
+
+#nav-list a {
+	position: static;
+	margin-top: 0px;
+	color: red;
+	font-size: 1.8em;
+	text-align: center;
+	width: 100%;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+#nav-list a:hover {
+	background: #FFFFFF;
+}
+
+
+h2 {
+	color: black;
+	font-family: 'Indie Flower', cursive;
+}
+
+p {
+	background-color: #008080;
+	border: 5px solid black;
+	width: 95%;
+	height: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 55px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	box-sizing: border-box;
+	position: relative;
+	overflow: auto;
+	font-size: 150%;
+	font-family: 'Shadows Into Light', cursive;
+
+}
+
+span.para-title {
+	font-size: 200%;
+	position: absolute;
+	top: 0;
+	text-align: center;
+	width: 100%;
+}
+
+div.main-content {
+	position: relative;
+	margin-top: 20px;
+}
+
+
