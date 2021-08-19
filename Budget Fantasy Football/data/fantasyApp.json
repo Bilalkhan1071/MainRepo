@@ -1,0 +1,167 @@
+{
+    "teams": [
+        {
+            "teamScore": 20,
+            "players": ["Messi"],
+            "name": "b"
+        },
+        {
+            "teamScore": 23,
+            "players": ["Ronaldo"],
+            "name": "s"
+        }
+    ],
+    "name": "The League",
+    "leaguePlayers": [
+        {
+            "leaguePlayerGoals": 6,
+            "leaguePlayerScore": 20,
+            "leaguePlayerName": "Messi",
+            "leaguePlayerAssists": 2
+        },
+        {
+            "leaguePlayerGoals": 3,
+            "leaguePlayerScore": 23,
+            "leaguePlayerName": "Ronaldo",
+            "leaguePlayerAssists": 14
+        },
+        {
+            "leaguePlayerGoals": 5,
+            "leaguePlayerScore": 20,
+            "leaguePlayerName": "Neymar",
+            "leaguePlayerAssists": 5
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Mbappe",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Lewandowski",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Salah",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Suarez",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Sterling",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Frenkie",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "De Bruyne",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Arthur",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Kimmich",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Grealish",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Ramos",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Alphonso",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Virgil",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Trent",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Telles",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Lenglet",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Upamecano",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Walker",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Mendy",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Aayush",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Ter Stegan",
+            "leaguePlayerAssists": 0
+        },
+        {
+            "leaguePlayerGoals": 0,
+            "leaguePlayerScore": 0,
+            "leaguePlayerName": "Neuer",
+            "leaguePlayerAssists": 0
+        }
+    ]
+}

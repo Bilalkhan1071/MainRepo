@@ -1,0 +1,16 @@
+{
+    "teams": [
+        {
+            "teamScore": 0,
+            "players": [],
+            "name": "Team 1"
+        },
+        {
+            "teamScore": 0,
+            "players": [],
+            "name": "Team 2"
+        }
+    ],
+    "name": "The League",
+    "leaguePlayers": []
+}
